@@ -793,12 +793,16 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
     color: #FFF;
 }
 /*Container Style*/
+.col-sm-6{
+  border: #000;
+}
 .column-inner {
+  border: 10px  #000;
     box-sizing: border-box;
 	padding: 5px 0px 15px 0px;
     width: 100%;
 	text-align: justify;
-	color: #000000;
+	color: #0d0404;
 }
 
 .column-inner h3{
@@ -811,7 +815,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .column-bg
 {
 	background-color:#ffffff; 
-	border-right: 1px solid #d8d8d8;	
+	border-right: 1px solid #ece6e6;	
 }
 
 .column-inner ul
@@ -934,7 +938,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .container-bg
 {
-	background:#d8d8d8;
+	background: rgb(47,78,78);
 }
 .glance-links
 {
