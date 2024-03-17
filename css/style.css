@@ -1067,16 +1067,16 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .panel-style
 {
 	display:inline-block;
-	width: 100%;
-	height: 234px;
+	width: 40%;
+	height: 120px;
 	margin:0px;
 	padding:5px;	
 }
 
 .panel-style img
 {
-    width: 100%;
-    height: 234px;
+    width: 80%;
+    height: 120px;
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
